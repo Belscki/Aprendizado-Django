@@ -11,8 +11,14 @@ posts = [
     {
         'author': 'Madruga',
         'title': 'Segundo Post',
-        'content': 'Claramente esse é não é o primeiro post',
+        'content': 'lorem aoçisdhasioçkndaikoçsndioçaksndikoç',
         'data' : 'Ontem'
+    },
+    {
+        'author': 'Florinda',
+        'title': 'Terceiro Post',
+        'content': 'lorem aolskdjnaoçiklsdnaoçiknd ioahnsdioasniko noaiknjd ikoansdklo an',
+        'data' : 'Ante-ontem'
     }
 ]
 
